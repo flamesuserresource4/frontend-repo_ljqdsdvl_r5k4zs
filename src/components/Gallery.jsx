@@ -46,7 +46,7 @@ export default function Gallery() {
       <div className="mb-10 flex items-end justify-between">
         <div>
           <h2 className="font-display text-3xl md:text-4xl">Selected Works</h2>
-          <p className="mt-2 text-slate-600">A glimpse into living rooms, kitchens, and offices weve shaped.</p>
+          <p className="mt-2 text-slate-600">A glimpse into living rooms, kitchens, and offices we've shaped.</p>
         </div>
       </div>
 
